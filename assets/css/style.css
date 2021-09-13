@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+  background-color: #797979;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  fill: #ff4500;
   width: 12px;
   height: 24px;
 }
@@ -239,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+  background-color: ##ff4500;
 }
 
 .bg-color--subcolor {
